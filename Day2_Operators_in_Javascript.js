@@ -81,3 +81,25 @@ console.log(!zz);
 //ternary operator task 14
 let i1 = 125;
 i1 === 125 ? console.log('positive') : console.log('negative');
+
+//Arithematic operation script Feature Request
+console.log(`Addtion of 123 + 245: result is ${c}`);
+console.log(`subtraction of 1744 - 545: result is ${d - e}`);
+console.log(`multiplication of 145 * 425: result is ${f * g}`);
+console.log(`Divide of 445 / 345: result is ${h / i}`);
+console.log(`modulus of 545 % 52: result is ${j % k}`);
+
+//comparison operators Feature Request
+console.log(`x is less than y: ${x < y}`);
+console.log(`x is greater than y: ${x > y}`);
+console.log(`ss is greater than or equal to tt: ${ss >= tt}`);
+console.log(`nn is less than or equal to oo: ${nn <= oo}`);
+
+//logical operator Feature Request
+console.log(`jj is equal to ke and ke is equal to ll: ${jj == ke && ke == ll}`);
+console.log(`jj is equal to ke or ke is equal to ll: ${jj == ke || ke == ll}`);
+console.log(`not true: ${!yy}`);
+console.log(`not false: ${!zz}`);
+
+//ternary operator Feature Request
+console.log(`i1 == 47 ? positive or negative = ${i1 === 47 ? 'positive' : 'negative'}`);
