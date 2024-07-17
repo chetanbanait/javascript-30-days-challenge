@@ -19,7 +19,6 @@ function evenOdd(numA) {
 
 // Activity 2 : Function Expression
 // Task 3 :
-
    function maxNumber(a,b) {
      console.log((a>b)? `${a} is greater than ${b}` : `${b} is greater than ${a}`);
    }
