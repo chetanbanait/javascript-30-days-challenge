@@ -36,3 +36,5 @@ const y = 5;
 console.log(y); // Output: 5
 
 y = 10; // Uncaught TypeError: Assignment to constant variable.
+
+
