@@ -1,5 +1,4 @@
 //Day 6
-
 //Activity 1 => Array Creation And Access
 //task 1
 
