@@ -95,4 +95,4 @@ for(let book in randomBook){
 console.log("object key :", Object.keys(randomBook));
 console.log("object values :", Object.values(randomBook));
 
-// Day 7 completed ...<3
+// Day 7 completed ...
