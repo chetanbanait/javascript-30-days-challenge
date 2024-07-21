@@ -69,5 +69,3 @@ person1[key] = value;
 console.log(person1);
 
 person1.greet();
-
-
