@@ -154,7 +154,6 @@ Promise.all([promiseSix,promiseSeven,promiseEight])
     
 })
 
-
 //task 09
 Promise.race([promiseSix,promiseSeven , promiseEight])
 .then((first) => {
