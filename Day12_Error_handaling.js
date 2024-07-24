@@ -1,4 +1,3 @@
-
 function throwError() {
     try {
         throw new Error("Error Occured");
