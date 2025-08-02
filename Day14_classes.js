@@ -156,3 +156,4 @@ myAcc.withdraw(200);
 console.log(`Balance after withdrawl of ammount is $${myAcc.getBalance()}`);
 
 // console.log(myAcc.#balance);
+
