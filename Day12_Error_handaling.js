@@ -2,6 +2,7 @@
 
 //Activity 12
 
+
 //task 01
 function task1(){
     throw new Error(`SomeThing Error Happen !`)    
@@ -157,4 +158,5 @@ async function task9(){
    }
 }
 task9();
+
 
