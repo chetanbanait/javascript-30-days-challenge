@@ -9,7 +9,6 @@ console.log('Array is ', arr1);
 console.log(`First Element of the array is: ${arr1[0]}`);
 console.log(`Last Element of the array is: ${arr1[arr1.length-1]}`);
 
-
 //Activity 2
 //task 3
 //Push Method
