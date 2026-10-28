@@ -5,7 +5,6 @@ let person = {
 }
 console.log(`Hello ${person.name} you are ${person.age} years old`);
 
-
 const multiline = `Hello
 you are
 22 years old`;
